@@ -1,0 +1,58 @@
+body{
+background: #4B4446;
+color: #4B4446;
+text-align: center;
+}
+
+header{
+	width: 100%;
+	height: 300px;
+	background: url('../img/rose.jpg') center;
+	background-size: cover;
+}
+
+.corps{
+	width: 60%;
+	padding: 10px;
+	margin: -150px auto;
+	background: #EFEEEB;
+	border-top: solid 5px #C289B4;
+}
+
+blockquote{
+}
+
+.score{
+	position: fixed;
+	width: 15%;
+	padding: 20px;
+	bottom: 0px;
+	right: 0px;
+	background: #EFEEEB;
+	border: solid 5px #C289B4;
+	border-bottom: none;
+}
+
+.question{
+	padding-bottom: 20px;
+}
+
+.rep{
+	display: inline-block;
+width: 45%;
+height: 30px;
+margin-top: 4px;
+padding: 20px 0px 20px 0px;
+vertical-align: bottom;
+background: #C289B4;
+}
+
+.selecgood{
+background: #58D19F;
+}
+
+.selectbad{
+background: #911037;
+color: #EFEEEB;
+}
+
